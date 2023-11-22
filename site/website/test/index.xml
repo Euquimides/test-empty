@@ -9,8 +9,8 @@
 	<disabled>false</disabled>
 	<file-name>index.xml</file-name>
 	<folder-name>test</folder-name>
-	<internal-name>tasty</internal-name>
-	<title_t>tasty</title_t>
+	<internal-name>tasty-test</internal-name>
+	<title_t>tasty-test</title_t>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<body_html>&lt;p&gt;test&lt;/p&gt;</body_html>
